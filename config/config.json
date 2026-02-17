@@ -1,0 +1,11 @@
+{
+  "disable": {
+    "Schemas": false,
+    "Users": false,
+    "Logins": false,
+    "Roles": false,
+    "Permissions": false,
+    "ExtendedProperties": false,
+    "Data": false
+  } 
+}
