@@ -73,5 +73,3 @@ SQL Schema Compare is a tool for comparing source and target SQL Server database
    ```
 3. Generated deployment scripts will be available in the `output_sql/` directory.
 
-## License
-MIT
